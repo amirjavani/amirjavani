@@ -29,7 +29,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amirjavani&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FF9800&icon_color=FF5722&text_color=E0E0E0&bg_color=0,000000,1A1A1A" />
+<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirjavani&theme=tokyonight" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirjavani&layout=compact&theme=radical" />
 
 </div>
