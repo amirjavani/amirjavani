@@ -4,7 +4,7 @@
 
 ### 🌟 Hi, I'm Amirmahdi! | Hallo, ich bin Amirmahdi!  
 
-🚀 Frontend Developer | React.js | Flutter  
+🚀 Frontend Developer | Software Engineer | React.js |  Flutter  
 📚 German Teacher (A1 Level) | Deutschlehrer (A1-Niveau)  
 
 </div>
@@ -14,8 +14,12 @@
 ## 📌 Featured Projects
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amirjavani&repo=filmLand-front&theme=radical)](https://github.com/amirjavani/filmland-front)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amirjavani&repo=UserManagement-with-backend&theme=radical)](https://github.com/amirjavani/UserManagement-with-backend)
+<a href="https://github.com/amirjavani/filmland-front">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirjavani&repo=filmLand-front&theme=radical" />
+</a>
+<a href="https://github.com/amirjavani/UserManagement-with-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirjavani&repo=UserManagement-with-backend&theme=radical" />
+</a>
 
 </div>
 
@@ -23,12 +27,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirjavani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF9800&icon_color=FF5722&text_color=E0E0E0&bg_color=0,000000,1A1A1A" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirjavani&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirjavani&layout=compact&theme=radical" alt="Top Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=amirjavani&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FF9800&icon_color=FF5722&text_color=E0E0E0&bg_color=0,000000,1A1A1A" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirjavani&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirjavani&layout=compact&theme=radical" />
+
 </div>
-
-
 
 ---
 
@@ -41,10 +45,14 @@
 
 ---
 
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amirjavani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/amir_jaw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/amirjavani/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/amir_jaw/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 </div>
+
