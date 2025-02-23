@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&duration=4000&pause=1000&center=true&vCenter=true&width=1000&height=67&lines=Wellcome+to+my+Github;Herzlich+willkommen+zu+meiner+Github)](https://git.io/typing-svg)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amirjavani&repo=filmLand-front)](https://github.com/amirjavani/filmland-front)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amirjavani&repo=UserManagement-with-backend)](https://github.com/amirjavani/UserManagement-with-backend)
@@ -13,3 +12,7 @@
 
 <a href="https://www.linkedin.com/in/amirjavani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/amir_jaw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjavani&layout=donut-vertical)](https://github.com/amirjavani/github-readme-stats)
+
+
