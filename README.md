@@ -5,7 +5,9 @@
 ### 🌟 Hi, I'm Amirmahdi! | Hallo, ich bin Amirmahdi!  
 
 🚀 Frontend Developer | Software Engineer | React.js |  Flutter  
-📚 German Teacher (A1 Level) | Deutschlehrer (A1-Niveau)  
+
+I have a bachelor's degree in Computer Engineering and one year of experience in front-end development with React. I am passionate about learning, programming, and software development. I have a strong team spirit and a flexible mindset, and I enjoy working in dynamic and challenging environments.
+
 
 </div>
 
