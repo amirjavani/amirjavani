@@ -51,7 +51,7 @@ I have a bachelor's degree in Computer Engineering and one year of experience in
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/amirjavani/" target="_blank">
+<a href="https://www.linkedin.com/in/amirmahdijavani/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/amir_jaw/" target="_blank">
