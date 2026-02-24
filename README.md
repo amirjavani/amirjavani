@@ -43,7 +43,7 @@ I have a bachelor's degree in Computer Engineering and one year of experience in
 ## ⚡ My Skills
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,ts,redux,html,css,bootstrap,tailwind,flutter,cs,java,python" />
+    <img src="https://skillicons.dev/icons?i=javascript,ts,react,nextjs,redux,html,css,bootstrap,tailwind,flutter,cs,java,python" />
   </a>
 </div>
 
